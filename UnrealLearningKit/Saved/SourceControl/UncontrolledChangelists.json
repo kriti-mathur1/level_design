@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/kritimathur/Documents/cs415/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/kritimathur/Documents/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/kritimathur/Documents/cs415/UnrealLearningKit/Content/LearningKit_Games/Assets/Characters/Character/HealthUI.uasset",
+				"/Users/kritimathur/Documents/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset"
+			]
+		}
+	]
+}
