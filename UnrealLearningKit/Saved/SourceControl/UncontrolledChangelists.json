@@ -25,6 +25,9 @@
 				"/Users/kritimathur/Documents/cs415/level_design/UnrealLearningKit/Content/LearningKit_Games/Assets/Characters/Character/ScoreUI.uasset",
 				"/Users/kritimathur/Documents/cs415/level_design/UnrealLearningKit/Content/LearningKit_Games/Assets/Characters/Character/HealthUI.uasset",
 				"/Users/kritimathur/Documents/cs415/level_design/UnrealLearningKit/Content/LearningKit_Games/Assets/Characters/EAIState.uasset",
+				"/Users/kritimathur/Documents/cs415/level_design/UnrealLearningKit/Content/Hour_of_Code/Blueprints/BP_checkpoint.uasset",
+				"/Users/kritimathur/Documents/cs415/level_design/UnrealLearningKit/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset",
+				"/Users/kritimathur/Documents/cs415/level_design/UnrealLearningKit/Content/Hour_of_Code/Blueprints/BP_endGoal.uasset",
 				"/Users/kritimathur/Documents/cs415/UnrealLearningKit/Content/LearningKit_Games/Assets/Characters/Character/HealthUI.uasset",
 				"/Users/kritimathur/Documents/cs415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset"
 			]
